@@ -68,4 +68,4 @@ This project is a robust backend system designed to handle real-time stock price
 ## Contact
 
 - **Author:** Aditya Gupta
-- **Email:** your.email@example.com
+- **Email:** iadityagupta19@gmail.com
